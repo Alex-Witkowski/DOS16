@@ -7,7 +7,6 @@
       x:Class="UwpWorkshop.MvvmLightDemo.MainPage"
       mc:Ignorable="d"
       DataContext="{Binding Main, Source={StaticResource Locator}}">
-
     <Grid>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.906,1.164"
